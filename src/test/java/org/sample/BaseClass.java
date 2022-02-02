@@ -365,10 +365,14 @@ public class BaseClass {
 		}
 		return value;
 	
-	}
 		
-			
-		}
+		
+	}
+	private void hanif() {
+		System.out.println("hanif");
+	}
+	}
+
 	
 		
 	
